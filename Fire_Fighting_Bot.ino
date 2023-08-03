@@ -1,6 +1,4 @@
-/*------ Arduino Fire Fighting Robot ver 2.0 Code by hobby project---- */
- 
-#include <Servo.h>            //include servo.h library
+ #include <Servo.h>            //include servo.h library
 #include <SoftwareSerial.h>  //include SoftwareSerial.h library
 
 Servo myservo;
