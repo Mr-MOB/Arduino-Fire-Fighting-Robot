@@ -1,4 +1,4 @@
- #include <Servo.h>            //include servo.h library
+#include <Servo.h>            //include servo.h library
 #include <SoftwareSerial.h>  //include SoftwareSerial.h library
 
 Servo myservo;
